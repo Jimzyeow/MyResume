@@ -15,14 +15,6 @@ h1 {
     padding-top: 100px;
 }
 
-.middle-container {
-
-}
-
-.bottom-container {
-
-}
-
 .bottom-cloud {
     position: absolute;
     top: 250px;
@@ -40,7 +32,12 @@ h1 {
     width: 200px;
 }
 
-.computer-photo {
+.photo {
     height: 250px;
     width: 250px;
+}
+
+table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
