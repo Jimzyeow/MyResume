@@ -41,3 +41,13 @@ table,th,td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+
+.lake {
+    height: 400px;
+    width: 500px;
+}
+
+.ocLoginScreen {
+    height: 350px;
+    width: 200px;
+}
